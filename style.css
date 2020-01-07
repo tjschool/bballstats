@@ -4,7 +4,7 @@
 	font-family: 'Open Sans';
 }
 
-#header {
+#headcont {
 	text-align: center;
 }
 
@@ -24,8 +24,8 @@
 	border-radius: 15px;
 	background: gray;
 	color: white;
-	font-size: 30;
-	padding: 15px 40px;
+	font-size: 30pt;
+	padding: 5% 15%;
 }
 
 #game1 {
