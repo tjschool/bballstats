@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+* {
+	font-family: 'Open Sans';
+}
+
+#header {
+  text-align: center;
+}
+#stats{
+float: left;
+  width: auto;
+  height: auto;
+  border:solid 2px black;
+  }
+ #video {
+   float: right;
+    width: auto;
+   height: auto;
+  border:solid 1px black;
+ }
