@@ -9,13 +9,13 @@
 }
 #stats{
 float: left;
-  width: 47.5%;
+  width: auto;
   height: auto;
   border:solid 2px black;
   }
  #video {
    float: right;
-    width: 47.5%;
+    width: auto;
    height: auto;
   border:solid 1px black;
  }
